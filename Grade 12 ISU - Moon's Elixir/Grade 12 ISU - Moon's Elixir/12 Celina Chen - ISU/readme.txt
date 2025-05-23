@@ -17,10 +17,10 @@ moon’s elixir
 - moon, purple flower, silver, skull
 
 MISSING FUNCTIONALITIES:
-- farming (the only one i actually planned on implementing as you can see from the map)
+- farming
 - mobs
 - profit aspect
-- probably more
+- etc.
 
 ADDED FUNCTIONALITIES:
 - music, click sound
